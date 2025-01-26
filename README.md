@@ -29,8 +29,8 @@ pip install requests
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/your-username/ctfd-tailscale-ip-manager.git
-   cd ctfd-tailscale-ip-manager
+   git clone https://github.com/s0pln3rr0r/Tailscale-Dynamic-IP-Management-for-CTFd-Challenges.git
+   cd Tailscale-Dynamic-IP-Management-for-CTFd-Challenges
    ```
 
 2. **Configure the Script**:
