@@ -3,7 +3,7 @@
 
 ## Overview
 
-This Python script automates the process of assigning dynamic IP addresses to Boot2Root machines in a **Capture The Flag (CTF)** competition hosted on **CTFd** using **Tailscale**. The script updates the Tailscale devices' IPs based on team and machine numbers, making it easier to manage the IP assignments for your CTF challenges.
+This Python script, created as part of the **BFCPT Blog Series - Part 4**, automates the process of assigning dynamic IP addresses to Boot2Root machines in a **Capture The Flag (CTF)** competition hosted on **CTFd** using **Tailscale**. The script updates the Tailscale devices' IPs based on team and machine numbers, making it easier to manage the IP assignments for your CTF challenges.
 
 ## Features
 
